@@ -8,7 +8,7 @@
 * @updated: 07/09/2016
 */
 
-/** Default Styles **/
+/* Default Styles */
 @font-face{
 	font-family: source-code-regular; 
 	src: url(../font/sourcecodepro-regular-webfont.woff);
@@ -31,7 +31,7 @@ button{
 	width:100%;
 }
 
-/** Contacts Styles **/
+/* Contacts Styles */
 #contacts{
 	display: none; 
 	text-align:center;
@@ -46,7 +46,7 @@ button{
 	padding: 8px;
 }
 
-/** Map Styles **/
+/* Map Styles */
 #status img{
 	margin: 0 auto; 
 	padding: 220px; 
@@ -59,7 +59,7 @@ button{
 	width :100%;
 }
 
-/** Camera and Media Library Styles **/
+/* Camera and Media Library Styles */
 #camera, #canvas, #video, #image-area, .photo{ display: none; }
 #video, .photo, #canvas-box{ margin: 0 auto; }
 #canvas-box, #image-area, .photo, #camera, .error-msg{ text-align: center; }
