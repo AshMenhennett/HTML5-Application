@@ -1,11 +1,6 @@
 /**
-* @author: Ashley Menhennett
-* @author URI: http://ashley.guru
-* @project: HTML5 Application
-* @version: 1
+* @author: Ashley Menhennett <ashleymenhennett@gmail.com>
 * @license: MIT
-* @license URI: https://s3-ap-southeast-2.amazonaws.com/ashleymenhennett/LICENSE
-* @updated: 07/09/2016
 */
 
 $(document).ready(function(){
