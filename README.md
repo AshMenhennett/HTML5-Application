@@ -3,7 +3,7 @@
 A simple HTML5, show casing some capabilities of HTML5.
 
 ##Demo
-Visit [the live demo](https://ashmenhennett.github.io/HTML5-Application/).
+View [the live demo](https://ashmenhennett.github.io/HTML5-Application/).
 
 ##APIs, Frameworks & Libraries
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/)
