@@ -26,6 +26,7 @@ $(document).ready(function(){
 
 				$.each(data.contacts, function(index, value){
 
+					/* Avatars from: http://facebox.io/ */
 					$("#contacts ul").append(
 						"<li class='topcoat-list__item'>" +
 							"<img class='avatar' src='" + value.avatar + "'>" +
