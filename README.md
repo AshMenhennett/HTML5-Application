@@ -16,6 +16,7 @@ Avatars from [Facebox](http://facebox.io/).
 - [HTML5 Shiv](https://github.com/aFarkas/html5shiv)
 - [Respond](https://github.com/scottjehl/Respond)
 - [Normalize](https://github.com/necolas/normalize.css)
+- [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
 
 ##Licensing
 MIT License
