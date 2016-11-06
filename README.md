@@ -7,6 +7,7 @@ View [the live demo](https://ashmenhennett.github.io/HTML5-Application/).
 
 ##Assets
 Avatars from [Facebox](http://facebox.io/).
+
 Font from [Adobe](https://github.com/adobe-fonts/source-code-pro).
 
 ##APIs, Frameworks & Libraries
