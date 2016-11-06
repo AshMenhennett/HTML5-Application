@@ -7,6 +7,7 @@ View [the live demo](https://ashmenhennett.github.io/HTML5-Application/).
 
 ##Assets
 Avatars from [Facebox](http://facebox.io/).
+Font from [Adobe](https://github.com/adobe-fonts/source-code-pro).
 
 ##APIs, Frameworks & Libraries
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/)
@@ -16,7 +17,7 @@ Avatars from [Facebox](http://facebox.io/).
 - [HTML5 Shiv](https://github.com/aFarkas/html5shiv)
 - [Respond](https://github.com/scottjehl/Respond)
 - [Normalize](https://github.com/necolas/normalize.css)
-- [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+
 
 ##Licensing
 MIT License
